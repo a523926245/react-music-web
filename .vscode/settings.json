@@ -1,0 +1,12 @@
+{
+    "editor.fontLigatures": false,
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact"
+    ],
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "eslint.enable": true,
+    "eslint.alwaysShowStatus": true
+}
